@@ -1,8 +1,5 @@
 package guru.springframework.model;
 
-/**
- * Created by jt on 2018-12-09.
- */
 public class UserCommand {
     private String firstName;
     private String lastName;

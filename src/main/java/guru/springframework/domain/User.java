@@ -1,8 +1,5 @@
 package guru.springframework.domain;
 
-/**
- * Created by jt on 2018-12-09.
- */
 public class User {
 
     private String firstName;
